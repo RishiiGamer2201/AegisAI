@@ -1,0 +1,4 @@
+name,description,use_case,sector,version
+CV Screener,Ranks candidates by CV content,CV Screening,HR Tech,1.0
+Fraud Detector,Flags anomalous transactions,Risk Assessment,Finance,2.1
+Sentiment Analyzer,Analyzes customer feedback,Sentiment Analysis,E-commerce,1.5
